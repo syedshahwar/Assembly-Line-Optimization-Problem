@@ -1,0 +1,2 @@
+# Assembly-Line-Optimization-Problem
+A simulation for solving the Assembly Line Optimization Problem using Dynamic Programming. A GUI showing the details of this optimization in action.Assemble a car as fast as possible, using two “identical” assembly lines, each with n stations.Decide beforehand how to split the problem into independent (and most likely related and overlapping) optimal subproblems. Then solve the subproblems bottom-up, remembering the intermediate solutions. 
